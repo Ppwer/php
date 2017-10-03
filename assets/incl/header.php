@@ -7,9 +7,14 @@
   <body>
 
      <header>
-        <nav>
-           <a href="index.php">Forside</a>
-           <a href="about.php">Om os</a>
+        <nav class="navbar">
+            <ul>
+                <li><a href="index.php">Dag 1</a></li>
+                <li><a href="about.php">Dag 2</a></li>
+                 <li><a href="index.php">Dag 3</a></li>
+                <li><a href="about.php">Dag 4</a></li>
+                
+           </ul>
         </nav>
      </header>
 

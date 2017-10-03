@@ -1,0 +1,23 @@
+body{
+    
+}
+
+.navbar{
+    background-color: green;    
+}
+
+.navbar ul{
+    list-style-type: none;
+}
+
+.navbar ul li{
+    display: inline-block;
+}
+
+.navbar ul li a{
+    color: white;
+    font-size: 25px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
